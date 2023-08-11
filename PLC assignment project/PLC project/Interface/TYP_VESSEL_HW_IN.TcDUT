@@ -3,7 +3,7 @@
   <DUT Name="TYP_VESSEL_HW_IN" Id="{9dfff377-773b-4386-aac4-95bf5ef3c506}">
     <Declaration><![CDATA[TYPE TYP_VESSEL_HW_IN :
 STRUCT
-	Sensor : INT; //pressure of the vessel
+	Sensor : REAL; //pressure of the vessel
 END_STRUCT
 END_TYPE
 ]]></Declaration>
